@@ -20,6 +20,10 @@ Indonesia generally benefits from lower global oil prices due to complex sectora
 ## Educational Note
 These files represent my learning journey with CGE modeling and GAMS programming. The thesis and models are shared for educational purposes and contain areas for improvement that were noted during examination. Feel free to explore, learn from, and build upon this work while acknowledging its academic limitations.
 
+## Full Thesis
+The complete Master's thesis is available on ResearchGate:
+[Impact of Global Crude Oil Price Shocks on Indonesia Economy - a CGE Analysis]([https://www.researchgate.net/publication/391942005_Impact_of_Global_Crude_Oil_Price_Shocks_on_Indonesia_Economy_-_a_CGE_Analysis])
+
 ## Citation
 If you use or reference these models in your work, please cite:
 Prasojo, H. (2020). Impact of Global Crude Oil Price Shocks on Indonesia Economy - a CGE Analysis [Master's thesis, Corvinus University of Budapest].
