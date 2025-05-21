@@ -6,7 +6,7 @@ This repository contains the GAMS (General Algebraic Modeling System) files deve
 These models implement a Computable General Equilibrium (CGE) framework to analyze how fluctuations in global crude oil prices affect various sectors of the Indonesian economy. The research question explores whether Indonesia, historically an oil-exporting country transitioning toward becoming a net importer, benefits or suffers from oil price shocks.
 
 ## Contents
-- Standard CGE model implementation following Hosoe et al. (2010)
+- Standard CGE model implementation following Hosoe et al. (2010). Textbook of Computable General Equilibrium Modeling
 - Indonesia Input-Output table (2010) processing and sector aggregation
 - Social Accounting Matrix (SAM) construction with row-sum and column-sum equality rules
 - Three simulation scenarios examining a 30% reduction in crude oil prices:
