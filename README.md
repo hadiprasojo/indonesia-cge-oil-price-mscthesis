@@ -15,7 +15,7 @@ These models implement a Computable General Equilibrium (CGE) framework to analy
   - Scenario C: Import-focused impact
 
 ## Key Findings
-The analysis showed that despite being a net exporter of crude oil, Indonesia generally benefits from lower global oil prices due to complex sectoral interactions, particularly in the processing industry and transportation sectors.
+Indonesia generally benefits from lower global oil prices due to complex sectoral interactions, particularly in the processing industry and transportation sectors.
 
 ## Educational Note
 These files represent my learning journey with CGE modeling and GAMS programming. The thesis and models are shared for educational purposes and contain areas for improvement that were noted during examination. Feel free to explore, learn from, and build upon this work while acknowledging its academic limitations.
